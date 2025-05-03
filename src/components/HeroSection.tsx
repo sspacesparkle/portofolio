@@ -19,7 +19,7 @@ export default function HeroSection() {
             <p className="text-base md:text-lg text-gray-700">
               Mostly interested in{' '}
               <span className="font-semibold text-blue-700">
-                Graphic Design, Videos & Photos Editing
+                Social Media Specialist, Conten Creator, and Copywriting.
               </span>
               , and{' '}
               <span className="font-semibold text-blue-700">Creating Content</span> with
