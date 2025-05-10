@@ -12,7 +12,7 @@ export default function HeroSection() {
               <span className="text-3xl md:text-4xl lg:text-5xl font-bold text-black">
                 HI THERE!
               </span>{' '}
-              I am <span className="font text-[#0000FF]">Dedharya Immanuella</span>, as known as{' '}
+              I am <span className="font text-[#0000FF]">Dedharya Immanuella Wardjanan</span>, as known as{' '}
               <span className="font-extrabold text-[#0000FF]">Nayla.</span>
           </h1>
 
