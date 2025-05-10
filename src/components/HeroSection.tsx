@@ -19,10 +19,10 @@ export default function HeroSection() {
             <p className="text-base md:text-lg text-gray-700">
               Mostly interested in{' '}
               <span className="font-semibold text-blue-700">
-                Social Media Specialist, Conten Creator, and Copywriting
+                Social Media Specialist, Content Creator, and Copywriting
               </span>
               , {' '}
-              <span className="font-semibold text-blue-700">Creating Content</span> with
+              <span className="font-semibold text-blue-700"></span> with
               almost 2 years of experience. Enjoy my portfolio!{' '}
               <span className="inline-block">💗</span>
             </p>
