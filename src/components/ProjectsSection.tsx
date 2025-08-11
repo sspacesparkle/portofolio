@@ -46,7 +46,7 @@ const projects = [
   },
   {
     id: 6,
-    title: "Moderator Mc MUBES HIME 22/23",
+    title: "Moderator MC MUBES HIME 22/23",
     category: "Public Speaking",
     image: "img/speaking.jpeg",
     description: "Actively contributed to the successful execution of the HIME General Assembly (MUBES HIME), supporting event coordination and ensuring smooth organizational processes.",
