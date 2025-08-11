@@ -7,7 +7,7 @@ import { ArrowRight } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Product Collaborated Batik nDalem ARCS",
+    title: "Product Collaborated Batik nDalem ARJS",
     category: "Talent and Collaborated",
     image: "img/batik.jpeg",
     description: "Created short films and product branding content to support the development and promotion of MSMEs (Micro, Small, and Medium Enterprises), focusing on storytelling that highlights unique brand values and market potential",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Short Movie Collaborated Batik nDalem ARCS",
+    title: "Short Movie Collaborated Batik nDalem ARJS",
     category:"Talent and Collaborated",
     image: "img/movie.jpeg",
     description: "Created short films and product branding content to support the development and promotion of MSMEs (Micro, Small, and Medium Enterprises), focusing on storytelling that highlights unique brand values and market potential",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Video Iklan Product UMKM Denn's Sambal",
+    title: "Video Iklan Product UMKM Deen's Sambal",
     category: "Talent and Collaborated",
     image: "img/sambal.jpeg",
     description: "Created short films and product branding content to support the development and promotion of MSMEs (Micro, Small, and Medium Enterprises), focusing on storytelling that highlights unique brand values and market potential",
